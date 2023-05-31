@@ -1,0 +1,277 @@
+[
+  {
+    "_from": "Country/Poland",
+    "_to": "Capital/Warsaw",
+    "_key": "capital_of_1"
+  },
+  {
+    "_from": "Country/Bulgaria",
+    "_to": "Capital/Sofia",
+    "_key": "capital_of_2"
+  },
+  {
+    "_from": "Country/Portugal",
+    "_to": "Capital/Lisbon",
+    "_key": "capital_of_3"
+  },
+  {
+    "_from": "Country/Russia",
+    "_to": "Capital/Moscow",
+    "_key": "capital_of_4"
+  },
+  {
+    "_from": "Country/Peoples_Republic_of_China",
+    "_to": "Capital/Beijing",
+    "_key": "capital_of_5"
+  },
+  {
+    "_from": "Country/India",
+    "_to": "Capital/New_Delhi",
+    "_key": "capital_of_6"
+  },
+  {
+    "_from": "Country/Czech_Republic",
+    "_to": "Capital/Prague",
+    "_key": "capital_of_7"
+  },
+  {
+    "_from": "Country/Croatia",
+    "_to": "Capital/Zagreb",
+    "_key": "capital_of_8"
+  },
+  {
+    "_from": "Country/Argentina",
+    "_to": "Capital/Buenos_Aires",
+    "_key": "capital_of_9"
+  },
+  {
+    "_from": "Country/Japan",
+    "_to": "Capital/Tokyo",
+    "_key": "capital_of_10"
+  },
+  {
+    "_from": "Country/Mexico",
+    "_to": "Capital/Mexico_City",
+    "_key": "capital_of_11"
+  },
+  {
+    "_from": "Country/Greece",
+    "_to": "Capital/Athens",
+    "_key": "capital_of_12"
+  },
+  {
+    "_from": "Country/Cuba",
+    "_to": "Capital/Havana",
+    "_key": "capital_of_13"
+  },
+  {
+    "_from": "Country/Austria",
+    "_to": "Capital/Vienna",
+    "_key": "capital_of_14"
+  },
+  {
+    "_from": "Country/Germany",
+    "_to": "Capital/Berlin",
+    "_key": "capital_of_15"
+  },
+  {
+    "_from": "Country/England",
+    "_to": "Capital/London",
+    "_key": "capital_of_16"
+  },
+  {
+    "_from": "Country/Egypt",
+    "_to": "Capital/Cairo",
+    "_key": "capital_of_17"
+  },
+  {
+    "_from": "Country/France",
+    "_to": "Capital/Paris",
+    "_key": "capital_of_18"
+  },
+  {
+    "_from": "Country/Lithuania",
+    "_to": "Capital/Vilnius",
+    "_key": "capital_of_19"
+  },
+  {
+    "_from": "Country/Italy",
+    "_to": "Capital/Rome",
+    "_key": "capital_of_20"
+  },
+  {
+    "_from": "Country/Belgium",
+    "_to": "Capital/City_of_Brussels",
+    "_key": "capital_of_21"
+  },
+  {
+    "_from": "Country/Denmark",
+    "_to": "Capital/Copenhagen",
+    "_key": "capital_of_22"
+  },
+  {
+    "_from": "Country/Sweden",
+    "_to": "Capital/Stockholm",
+    "_key": "capital_of_23"
+  },
+  {
+    "_from": "Country/Finland",
+    "_to": "Capital/Helsinki",
+    "_key": "capital_of_24"
+  },
+  {
+    "_from": "Country/Republic_of_Ireland",
+    "_to": "Capital/Dublin",
+    "_key": "capital_of_25"
+  },
+  {
+    "_from": "Country/Iceland",
+    "_to": "Capital/Reykjavik",
+    "_key": "capital_of_26"
+  },
+  {
+    "_from": "Country/Estonia",
+    "_to": "Capital/Tallinn",
+    "_key": "capital_of_27"
+  },
+  {
+    "_from": "Country/Slovakia",
+    "_to": "Capital/Bratislava",
+    "_key": "capital_of_28"
+  },
+  {
+    "_from": "Country/Hungary",
+    "_to": "Capital/Budapest",
+    "_key": "capital_of_29"
+  },
+  {
+    "_from": "Country/Canada",
+    "_to": "Capital/Ottawa",
+    "_key": "capital_of_30"
+  },
+  {
+    "_from": "Country/Belarus",
+    "_to": "Capital/Minsk",
+    "_key": "capital_of_31"
+  },
+  {
+    "_from": "Country/Colombia",
+    "_to": "Capital/Bogota",
+    "_key": "capital_of_32"
+  },
+  {
+    "_from": "Country/Chile",
+    "_to": "Capital/Santiago",
+    "_key": "capital_of_33"
+  },
+  {
+    "_from": "Country/Ethiopia",
+    "_to": "Capital/Addis_Ababa",
+    "_key": "capital_of_34"
+  },
+  {
+    "_from": "Country/Indonesia",
+    "_to": "Capital/Jakarta",
+    "_key": "capital_of_35"
+  },
+  {
+    "_from": "Country/Turkey",
+    "_to": "Capital/Ankara",
+    "_key": "capital_of_36"
+  },
+  {
+    "_from": "Country/Kenya",
+    "_to": "Capital/Nairobi",
+    "_key": "capital_of_37"
+  },
+  {
+    "_from": "Country/Azerbaijan",
+    "_to": "Capital/Baku",
+    "_key": "capital_of_38"
+  },
+  {
+    "_from": "Country/Northern_Ireland",
+    "_to": "Capital/Belfast",
+    "_key": "capital_of_39"
+  },
+  {
+    "_from": "Country/Romania",
+    "_to": "Capital/Bucharest",
+    "_key": "capital_of_40"
+  },
+  {
+    "_from": "Country/Albania",
+    "_to": "Capital/Tirana",
+    "_key": "capital_of_41"
+  },
+  {
+    "_from": "Country/New_Zealand",
+    "_to": "Capital/Wellington",
+    "_key": "capital_of_42"
+  },
+  {
+    "_from": "Country/United_States_of_America",
+    "_to": "Capital/Washington_D_C",
+    "_key": "capital_of_43"
+  },
+  {
+    "_from": "Country/Sikh_Misl",
+    "_to": "Capital/Amritsar",
+    "_key": "capital_of_44"
+  },
+  {
+    "_from": "Country/Kingdom_of_Galicia_and_Lodomeria",
+    "_to": "Capital/Lviv",
+    "_key": "capital_of_45"
+  },
+  {
+    "_from": "Country/Republic_of_Artsakh",
+    "_to": "Capital/Stepanakert",
+    "_key": "capital_of_46"
+  },
+  {
+    "_from": "Country/Israel",
+    "_to": "Capital/Jerusalem",
+    "_key": "capital_of_47"
+  },
+  {
+    "_from": "Country/Thailand",
+    "_to": "Capital/Bangkok",
+    "_key": "capital_of_48"
+  },
+  {
+    "_from": "Country/Malaysia",
+    "_to": "Capital/Kuala_Lumpur",
+    "_key": "capital_of_49"
+  },
+  {
+    "_from": "Country/Tunisia",
+    "_to": "Capital/Tunis",
+    "_key": "capital_of_50"
+  },
+  {
+    "_from": "Country/Iran",
+    "_to": "Capital/Tehran",
+    "_key": "capital_of_51"
+  },
+  {
+    "_from": "Country/Lebanon",
+    "_to": "Capital/Beirut",
+    "_key": "capital_of_52"
+  },
+  {
+    "_from": "Country/South_Korea",
+    "_to": "Capital/Seoul",
+    "_key": "capital_of_53"
+  },
+  {
+    "_from": "Country/Kosovo",
+    "_to": "Capital/Prishtina",
+    "_key": "capital_of_54"
+  },
+  {
+    "_from": "Country/Dominican_Republic",
+    "_to": "Capital/Santo_Domingo",
+    "_key": "capital_of_55"
+  }
+]
